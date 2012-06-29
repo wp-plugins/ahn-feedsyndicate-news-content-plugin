@@ -8,10 +8,20 @@ Stable tag: 3.3.1
 
 An easy to use tool that will permit you to quickly and easily use and import full text news content from your FeedSyndicate content account directly into WordPress.
 
+
 == Description ==
 
-The FeedSyndicate WordPress Plugin is a tool that will permit you to import packaged news content from your FeedSyndicate account and insert it directly into your WordPress site. Requires an active account from FeedSyndicate.com.
+The FeedSyndicate WordPress Plugin is a tool that will permit you to import packaged news content from your FeedSyndicate account and insert it directly into your WordPress site. 
 
+Requires an active account from FeedSyndicate.com. Don't have one yet? No worry=ies, we've created a special package just for WordPress users.  It includes full text news and weather at a special rate just for WordPress users.
+
+Special Package for WordPress users - $49.99/mo
+Highly discounted news and weather feeds designed just for WordPress users.  Includes all categories of news and images bundled with weather feeds.  News includes full text of the articles.
+
+- Signup: https://www.feedsyndicate.com/servicequote/31303535443233315231323836
+
+
+ 
 == Frequently Asked Questions ==
 
 = What does this plugin do exactly? =
@@ -34,12 +44,12 @@ Don't worry, we've created a special news package just for WordPress users.  It 
 Special Package for WordPress users - $49.99/mo
 Highly discounted news and weather feeds designed just for WordPress users.  Includes all categories of news and images bundled with weather feeds.  News includes full text of the articles.
 
-- Signup Now: https://www.feedsyndicate.com/servicequote/31303535443233315231323836
+- Signup: https://www.feedsyndicate.com/servicequote/31303535443233315231323836
 
 
 == Changelog ==
 
-= 2.1 =
+= 2.0 =
 * Updated logic due to WordPress coding issues.
 * Minor bug fixes.
 
