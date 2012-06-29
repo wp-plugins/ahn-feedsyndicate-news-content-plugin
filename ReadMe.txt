@@ -1,4 +1,4 @@
-=== FeedSyndicate NewsML Plugin ===
+=== FeedSyndicate Full Text News Article Importer ===
 Contributors: ahncorp
 Donate link: http://www.feedsyndicate.com/
 Tags: news, content, newsml, rss, data, feedsyndicate, Feed Syndicate, news feeds, feeds
