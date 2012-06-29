@@ -12,7 +12,7 @@ Automatically add ready to use full text news articles into your site.  From Fee
 
 The FeedSyndicate WordPress Plugin is a tool that will permit you to import packaged news content from your FeedSyndicate account and insert it directly into your WordPress site. 
 
-Requires an active account from FeedSyndicate.com. Don't have one yet? No worry=ies, we've created a special package just for WordPress users.  It includes full text news and weather at a special rate just for WordPress users.
+Requires an active account from FeedSyndicate.com. Don't have one yet? No worryies, we've created a special package just for WordPress users.  It includes full text news and weather at a special rate just for WordPress users.
 
 Special Package for WordPress users - $49.99/mo
 Highly discounted news and weather feeds designed just for WordPress users.  Includes all categories of news and images bundled with weather feeds.  News includes full text of the articles.
