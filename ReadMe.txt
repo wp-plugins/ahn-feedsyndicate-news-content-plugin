@@ -6,6 +6,8 @@ Requires at least: 2.0.2
 Tested up to: 3.3.1
 Stable tag: 3.3.1
 
+Import full text news and images into your WordPress site.
+
 An easy to use tool that will permit you to quickly and easily use and import full text news content from your FeedSyndicate content account directly into WordPress.
 
 
