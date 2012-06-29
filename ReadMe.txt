@@ -6,7 +6,7 @@ Requires at least: 2.0.2
 Tested up to: 3.3.1
 Stable tag: 3.3.1
 
-An easy to use tool that will permit you to import packed news content from your FeedSyndicate content account.
+An easy to use tool that will permit you to quickly and easily use and import full text news content from your FeedSyndicate content account directly into WordPress.
 
 == Description ==
 
@@ -24,10 +24,25 @@ Yes.
 
 = Does it use my page templates? =
 
-Yes it uses your WordPress page design.
+Yes it uses your own WordPress page design.
+
+= I don't have a FeedSyndicate Acccount. How can I signup? =
+
+Don't worry, we've created a special news package just for WordPress users.  It includes full text news and weather at a special rate just for WordPress users.
+
+
+Special Package for WordPress users - $49.99/mo
+Highly discounted news and weather feeds designed just for WordPress users.  Includes all categories of news and images bundled with weather feeds.  News includes full text of the articles.
+
+- Signup Now: https://www.feedsyndicate.com/servicequote/31303535443233315231323836
 
 
 == Changelog ==
+
+= 2.1 =
+* Updated logic due to WordPress coding issues.
+* Minor bug fixes.
+
 
 = 1.1 =
 * Added logic to make article downloading times more consistent.
